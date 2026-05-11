@@ -60,7 +60,7 @@ form{
     padding: 15px;
     margin-left: auto;
     margin-right: auto; /*The browser will automatically 
-    calculate margins to center the form on the screen*/
+    calculate margins to center the form on the screen*/;
 }
 
 /*This  will specifically target the input tags that are
@@ -75,6 +75,7 @@ form input{
     margin: 10px 15px 10px 0px;
     transition: 0.3s ease-out; /*Transitions back to light
     gray when user clicks away from an input field*/
+    width: 200px;
 }
 
 form input:focus{
