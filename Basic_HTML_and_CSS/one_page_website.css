@@ -1,0 +1,20 @@
+/*Import link for the Josefin Slab from fonts.google.com*/
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Mukta:wght@200;300;400;500;600;700;800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/*Import link for the Sacramento font from fonts.google.com*/
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Mukta:wght@200;300;400;500;600;700;800&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sacramento&display=swap');
+
+h1{
+   font-family: "Sacramento", cursive; /*Font from
+   fonts.google.com*/
+   font-size: 80px;
+   color: aquamarine;
+   text-align: center;
+}
+
+h2, h3, h4{
+    font-family: "Josefin Slab", serif; /*Font from
+    fonts.google.com*/
+    text-align: center;
+}
+
