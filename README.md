@@ -8,3 +8,10 @@ Created an HTML file for the project
 Created CSS styling for simple recipes
 Created a JavaScript file for simple recipes
 Added comments throughout simple recipes code
+
+
+**One-Page-Website**
+Created an HTML file for the project
+Created CSS styling for one-page-website
+Created a JavaScript file for one-page-website
+Added comments throughout one-page-website
