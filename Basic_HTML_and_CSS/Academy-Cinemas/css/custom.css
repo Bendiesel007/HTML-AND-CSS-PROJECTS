@@ -315,3 +315,39 @@ selector styling*/
     width: auto;
     height: 130px;
 }
+
+/*POPOVERS*/
+
+.star-rating{
+    width: 80%;
+}
+
+/*TOAST*/
+
+.custom-toast{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+}
+
+
+/*Added styling for yellow buttons for Component Challenge*/
+
+.btn-outline-primary{
+     background-color: var(--main-color-accent);
+    padding: 20px;
+    border-radius: 40px;
+    font-size: 25px;
+    color: var(--accent-color);
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+
+.btn-outline-primary:hover, .btn-outline-primary:focus{
+    background-color: var(--main-color-accent);
+    color: var(--accent-text-color)
+}
