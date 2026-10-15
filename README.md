@@ -24,3 +24,12 @@ Created a JavaScript file Academy Cinemas project
 Utilized CSS styling framework Bootstrap
 Added my own Bootstrap component
 Added comments to my code
+
+**Bootstrap-JQUERY-Submission-Academy Cinemas**
+
+Updated HTML file with JQUERY for Academy-Cinemas
+Updated CSS styling for Academy-Cinemas
+Updated JavaScript for Academy-Cinemas
+Added shrink and scroll effect when the webpage is scrolled down 
+Mobile menu automatically closes when a link is click
+Add comments throughout JavaScript explaining my code
